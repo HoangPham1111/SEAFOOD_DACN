@@ -1,4 +1,4 @@
-# OceanFlow Seafood 2.0
+# OceanFlow Seafood 
 
 Hệ thống quản lý nhập khẩu, xuất khẩu, điều chuyển, tồn kho đa kho, giao nhận và hồ sơ hải sản. Ứng dụng sử dụng Java/Spring Boot ở backend, PostgreSQL/PostGIS làm cơ sở dữ liệu và HTML/CSS/JavaScript ở frontend.
 
